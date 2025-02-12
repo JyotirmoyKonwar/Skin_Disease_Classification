@@ -1,0 +1,13 @@
+keras
+tensorflow
+pandas
+numpy
+pytorch
+scikit-learn
+matplotlib
+seaborn
+ipykernel
+python-dotenv
+transformers
+kagglehub
+notebook
